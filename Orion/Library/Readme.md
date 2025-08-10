@@ -935,5 +935,5 @@ return {
 
 ## Example Script (For View)
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RamaTheDL/Library/main/Orion/Library/OrionExampleUI.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Aviiela/Library/main/Orion/Library/OrionExampleUI.lua"))()
 ```
